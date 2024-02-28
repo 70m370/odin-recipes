@@ -1,0 +1,1 @@
+# this project is related to the first odinproject exercise on the foundations section.

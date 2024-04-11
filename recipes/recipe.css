@@ -1,9 +1,14 @@
-p,
-h1,
-h2,
-h3,
-ol,
-ul,
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
 li {
-    text-align: center;
+    margin: 10px;
 }
